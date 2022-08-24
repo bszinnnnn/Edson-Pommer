@@ -1,3 +1,3 @@
-# Edson-Pommer
+# Projects JavaScript
 Edson Pommer
-n 9
+n°9
